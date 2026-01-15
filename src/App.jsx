@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 // Layout Components
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
+import ScrollToTop from './Components/ScrollToTop'
 
 // Pages
 import Home from './Pages/Home';
@@ -16,6 +17,8 @@ import ContactUs from './Pages/ContactUs';
 const App = () => {
   return (
     <Router>
+
+      <ScrollToTop/>
       <div className="flex flex-col min-h-screen">
         {/* Navbar hamesha top par rahega */}
         <Navbar />
