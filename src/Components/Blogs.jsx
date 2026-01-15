@@ -27,7 +27,7 @@ const Blog = () => {
       category: 'Pest Control',
       title: 'How to Prevent Termites During Monsoon Season',
       excerpt: 'Protect your wooden furniture from moisture and termites with our expert seasonal prevention guide.',
-      image: 'https://images.unsplash.com/photo-1563163532-68097955518b?auto=format&fit=crop&q=80&w=800',
+      image: 'https://deemakroko.com/wp-content/uploads/2025/08/Every-Strong-Home-Starts-with-a-Silent-Guardian-Below.-1080-x-1080-px-1200-x-630-px-1.jpg',
       date: 'Oct 05, 2025',
       readTime: '4 min read'
     }

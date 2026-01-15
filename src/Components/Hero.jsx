@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Hero = () => {
   const slides = [
     {
-      url: 'https://images.unsplash.com/photo-1581578731548-c64695cc6954?auto=format&fit=crop&q=80&w=1600',
+      url: 'https://techsquadteam.com/assets/profile/blogimages/6628090e9797d9828a9f9032cd705113.jpg',
       title: 'Expert Kitchen Cleaning',
       subtitle: 'HYGIENE FIRST',
       desc: 'We make every corner of your kitchen grease-free and sparkling clean.'
@@ -17,13 +17,13 @@ const Hero = () => {
       desc: 'Deep cleaning and disinfection for a safer, healthier bathroom environment.'
     },
     {
-      url: 'https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&q=80&w=1600',
+      url: 'https://smartzero.in/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-01-at-12.04.10-PM-1024x682.jpeg',
       title: 'Professional Sofa & Upholstery',
       subtitle: 'RESTORE COMFORT',
       desc: 'Removing deep-seated stains and dust to bring your furniture back to life.'
     },
     {
-      url: 'https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?auto=format&fit=crop&q=80&w=1600',
+      url: 'https://media.designcafe.com/wp-content/uploads/2024/08/18064403/simple-wall-painting-ideas.jpg',
       title: 'Complete Home Painting',
       subtitle: 'FRESH PERSPECTIVE',
       desc: 'Give your home a premium new look with our expert painting services.'

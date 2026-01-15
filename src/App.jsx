@@ -12,7 +12,7 @@ import AboutUs from './Pages/About';
 import ServicesPage from './Pages/Services';
 import BlogPage from './Pages/Blog';
 import ContactUs from './Pages/ContactUs';
-// Note: Baaki pages (Services, Blog, Contact) ke components aapne agar banaye hain toh yahan import karein
+
 
 const App = () => {
   return (
