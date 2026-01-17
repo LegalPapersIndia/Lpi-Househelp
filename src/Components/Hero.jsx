@@ -27,6 +27,12 @@ const Hero = () => {
       title: 'Complete Home Painting',
       subtitle: 'FRESH PERSPECTIVE',
       desc: 'Give your home a premium new look with our expert painting services.'
+    }, 
+    {
+      url: 'https://5.imimg.com/data5/SELLER/Default/2022/3/PZ/LJ/FE/11447869/corporate-housekeeping-service-provider-500x500.jpg',
+      title: 'corporate housekeeping',
+      subtitle: 'FRESH PERSPECTIVE',
+      desc: 'Give your corporate space a premium new look with our services.'
     }
   ];
 

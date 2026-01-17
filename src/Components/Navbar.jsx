@@ -47,7 +47,7 @@ const Navbar = () => {
           <div className="flex items-center gap-4 sm:gap-6">
             <a href="tel:+919876543210" className="flex items-center gap-1.5 hover:text-yellow-400 transition-colors group">
               <Phone size={14} className="text-yellow-400 group-hover:scale-110 transition-transform" />
-              <span className="hidden sm:inline">+91 98765 43210</span>
+              <span className="hidden sm:inline">+91 7505266931</span>
             </a>
             <a href="mailto:info@lpi-housekeeping.com" className="flex items-center gap-1.5 hover:text-yellow-400 transition-colors group">
               <Mail size={14} className="text-yellow-400 group-hover:scale-110 transition-transform" />
